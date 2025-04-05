@@ -1,6 +1,6 @@
 package SimpleBankingAplication;
 
-public class BankOperation {
+public class BankAccount {
 
     public class BankAccount {
         private String accountHolder;
