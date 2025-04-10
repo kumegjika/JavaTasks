@@ -8,7 +8,7 @@ public class Exercise4 {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
-        int secretNumber = random.nextInt(100) + 1; // numër nga 1 deri në 100
+        int secretNumber = random.nextInt(100) + 1;
         int attempts = 0;
         int guess;
 
